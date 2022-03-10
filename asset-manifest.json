@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nileriver-dapp/static/css/main.073c9b0a.css",
-    "main.js": "/nileriver-dapp/static/js/main.55fbf415.js",
+    "main.css": "/nileriver-dapp/static/css/main.cba87a40.css",
+    "main.js": "/nileriver-dapp/static/js/main.b586edd7.js",
     "static/js/787.03770da1.chunk.js": "/nileriver-dapp/static/js/787.03770da1.chunk.js",
     "index.html": "/nileriver-dapp/index.html",
-    "main.073c9b0a.css.map": "/nileriver-dapp/static/css/main.073c9b0a.css.map",
-    "main.55fbf415.js.map": "/nileriver-dapp/static/js/main.55fbf415.js.map",
+    "main.cba87a40.css.map": "/nileriver-dapp/static/css/main.cba87a40.css.map",
+    "main.b586edd7.js.map": "/nileriver-dapp/static/js/main.b586edd7.js.map",
     "787.03770da1.chunk.js.map": "/nileriver-dapp/static/js/787.03770da1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.55fbf415.js"
+    "static/css/main.cba87a40.css",
+    "static/js/main.b586edd7.js"
   ]
 }
